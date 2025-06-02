@@ -93,11 +93,10 @@ Project_Automation_KPL/
 1. **Navigate to Login**: Access login page via "Explore" button.
 2. **Register New Account**: Create user with name, phone, password.
 3. **Login**: Authenticate with registered credentials.
-4. **Scroll Home Page**: Scroll horizontally using `UiScrollable`.
-5. **Select Movie**: Choose a movie from the list.
-6. **Buy Ticket**: Purchase ticket, scrolling to "Buy Ticket" button.
-7. **Cancel Ticket**: Cancel ticket from profile, scrolling to "Delete" button.
-8. **Logout**: Log out from profile page.
+4. **Select Movie**: Choose a movie from the list.
+5. **Buy Ticket**: Purchase ticket, scrolling to "Buy Ticket" button.
+6. **Cancel Ticket**: Cancel ticket from profile, scrolling to "Delete" button.
+7. **Logout**: Log out from profile page.
 
 ## Contributing
 1. Fork the repository.
