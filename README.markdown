@@ -97,24 +97,3 @@ Project_Automation_KPL/
 5. **Buy Ticket**: Purchase ticket, scrolling to "Buy Ticket" button.
 6. **Cancel Ticket**: Cancel ticket from profile, scrolling to "Delete" button.
 7. **Logout**: Log out from profile page.
-
-## Contributing
-1. Fork the repository.
-2. Create a branch:
-   ```bash
-   git checkout -b feature/your-feature
-   ```
-3. Commit changes:
-   ```bash
-   git commit -m "Add your feature"
-   ```
-4. Push:
-   ```bash
-   git push origin feature/your-feature
-   ```
-5. Open a pull request.
-
-Maintain XPath locators and `Thread.sleep` style.
-
-## License
-MIT License. See [LICENSE](LICENSE) for details.
